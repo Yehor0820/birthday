@@ -23,6 +23,7 @@ const DATA = [
   { photo: "photos/1.jpg", caption: "Наш початок", text: "Чим більше часу ми разом, тим дужче я тебе люблю" },
   { photo: "photos/2.jpg", caption: "Ти і я",      text: "Ти моя радість і мій дім" },
   { photo: "photos/3.jpg", caption: "Мрії",        text: "Попереду ще стільки всього гарного" },
+    { photo: "photos/3.jpg", caption: "Мрії",        text: "Попереду ще стільки всього гарного" }
 ];
 
 const stage = document.getElementById("stage");
